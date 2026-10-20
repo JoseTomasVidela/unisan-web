@@ -1,7 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import { useState } from "react";
+import Link from "./simple-link";
 
 export function Logo({inverse=false}:{inverse?:boolean}) {
   const source=inverse ? "/images/unisan/brand/unisan-logo-footer.png" : "/images/unisan/brand/unisan-logo.jpg";
