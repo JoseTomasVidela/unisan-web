@@ -15,10 +15,10 @@ export function Header() {
     <header className="header"><nav className="container nav" aria-label="Navegación principal">
       <Logo/>
       <div className={`nav-links ${open ? "open" : ""}`}>
-        <Link href="/soluciones" onClick={()=>setOpen(false)}>Soluciones</Link>
-        <Link href="/nosotros" onClick={()=>setOpen(false)}>Nosotros</Link>
-        <Link href="/contacto" onClick={()=>setOpen(false)}>Contacto</Link>
-        <div className="mobile-nav-cta"><Link className="btn btn-primary" href="/solicitar-cotizacion" onClick={()=>setOpen(false)}>Solicitar cotización <span className="arrow">↗</span></Link></div>
+        <Link href="/soluciones">Soluciones</Link>
+        <Link href="/nosotros">Nosotros</Link>
+        <Link href="/contacto">Contacto</Link>
+        <div className="mobile-nav-cta"><Link className="btn btn-primary" href="/solicitar-cotizacion">Solicitar cotización <span className="arrow">↗</span></Link></div>
       </div>
       <Link className="btn btn-primary header-quote" href="/solicitar-cotizacion">Solicitar cotización <span className="arrow">↗</span></Link>
       <button className="menu-button" aria-expanded={open} aria-label="Abrir menú" onClick={()=>setOpen(!open)}>{open ? "×" : "☰"}</button>
