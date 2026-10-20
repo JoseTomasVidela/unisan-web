@@ -14,6 +14,21 @@ Todos los recursos visibles se sirven desde el proyecto local. No hay hotlinks. 
 | `/images/unisan/solutions/bano-quimico-lavamanos.jpg` | Detalle sanitario | `https://unisan.cl/wp-content/uploads/elementor/thumbs/C52-2-scaled-qwyz01ht5rzlokd6n4h7cynnnipo2817a5cvxdel82.jpg` | UNISAN | Producto real publicado |
 | `/images/unisan/clients/*.png` | Clientes | `https://unisan.cl/wp-content/uploads/2024/10/{nombre}.png` | UNISAN | 19 logos del carrusel público actual |
 
+## Carrusel de rubros del Home
+
+El carrusel H-02 reutiliza exclusivamente fotografías reales de UNISAN ya almacenadas localmente. No incorpora recursos externos ni imágenes generadas.
+
+| Rubro | Archivo utilizado | Procedencia |
+|---|---|---|
+| Minería | `/images/unisan/home/unisan-operacion.jpg` | Fotografía pública de UNISAN (`slide02.jpg`) |
+| Industria | `/images/unisan/solutions/gestion-de-residuos.png` | Fotografía pública de UNISAN (`residuos_industriales.png`) |
+| Construcción | `/images/unisan/solutions/manejo-escombros.png` | Recurso entregado para la demo de UNISAN |
+| Agroindustria | `/images/unisan/solutions/manejo-fosas-grasas.png` | Recurso entregado para la demo de UNISAN |
+| Municipios | `/images/unisan/solutions/servicios-sanitarios.png` | Fotografía pública de UNISAN (`banos.png`) |
+| Eventos | `/images/unisan/solutions/eventos-unibox.png` | Fotografía pública de UNISAN (`banos_lujos.png`) |
+
+Las asociaciones por rubro deben ser validadas por el cliente antes de la publicación definitiva, especialmente Minería, Agroindustria y Municipios.
+
 ## Tipografías
 
 Poppins y Roboto se descargaron desde las hojas y archivos alojados públicamente por UNISAN en `/wp-content/uploads/elementor/google-fonts/`. Se sirven desde `public/fonts/`.

@@ -6,6 +6,7 @@ type Props={params:Promise<{slug:string[]}>};
 export async function generateMetadata({params}:Props):Promise<Metadata>{
   const {slug}=await params;
   if(slug[0]==="soluciones"&&(slug[1]==="banos-quimicos"||slug[1]==="unidades-sanitarias"))return {title:"Baños químicos",description:"Arriendo y mantención de baños químicos, duchas y lavamanos para faenas, empresas y proyectos."};
+  if(slug[0]==="soluciones"&&slug[1]==="trailer-lujo-eventos")return {title:"Unibox",description:"Unibox, trailers y baños premium para eventos y proyectos temporales."};
   const label=slug.map(x=>x.replaceAll("-"," ")).join(" · ");
   return {title:label.charAt(0).toUpperCase()+label.slice(1),description:`Conoce las soluciones de UNISAN para ${label}.`};
 }
