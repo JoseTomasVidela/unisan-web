@@ -49,3 +49,12 @@ h1,h2,h3,h4,h5,h6,.logo,.nav-links,.btn,.eyebrow,.text-link,.feature strong,.cli
 
 @media(max-width:900px){.hero,.hero-grid{min-height:430px}.solution-card{padding-top:210px}}
 @media(max-width:620px){.hero{min-height:440px;padding:0}.hero-grid{min-height:440px}.hero-copy .display{font-size:clamp(2rem,9vw,2.7rem)}.hero-title-line{display:inline;white-space:normal}.hero-title-line+ .hero-title-line:before{content:' '}.section{padding:56px 0}.solution-card{padding:250px 20px 22px}.solution-card:before{height:230px}}
+
+/* Global navigation refinements (G-01 to G-03). */
+#lineas-de-negocio{scroll-margin-top:96px}
+.header .logo img{width:190px;height:auto;max-height:54px;object-fit:contain;object-position:left center}
+.header-quote{min-height:52px;padding-inline:25px;box-shadow:0 8px 20px rgba(0,128,198,.22)}
+.mobile-nav-cta{display:none}
+@media(max-width:1040px) and (min-width:901px){.nav{gap:18px}.nav-links{gap:20px}.header .logo img{width:168px}.header-quote{padding-inline:18px}}
+@media(max-width:900px){.header .logo img{width:158px;max-height:46px}.mobile-nav-cta{display:block;border-top:1px solid var(--line);margin-top:4px;padding-top:18px}.mobile-nav-cta .btn{width:100%}.header-quote{display:none}}
+@media(max-width:420px){.header .logo img{width:142px}}

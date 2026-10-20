@@ -3,8 +3,8 @@ import "./globals.css";
 import "./seven-solutions.css";
 
 export const metadata: Metadata = {
-  title: { default: "UNISAN | Soluciones ambientales y sanitarias", template: "%s | UNISAN" },
-  description: "Gestión de residuos, economía circular y servicios sanitarios para empresas, faenas y proyectos.",
+  title: { default: "UNISAN | Soluciones ambientales y baños químicos", template: "%s | UNISAN" },
+  description: "Gestión de residuos, economía circular y baños químicos para empresas, faenas y proyectos.",
   icons: { icon: "/favicon.svg" },
 };
 

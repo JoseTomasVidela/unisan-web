@@ -12,16 +12,17 @@ export function Logo({inverse=false}:{inverse?:boolean}) {
 export function Header() {
   const [open,setOpen] = useState(false);
   return <>
-    <div className="topbar"><div className="container topbar-inner"><span>Soluciones ambientales y sanitarias para tu operación</span><a href="https://clientes.unisan.cl/">Acceso Clientes ↗</a></div></div>
+    <div className="topbar"><div className="container topbar-inner"><span>Soluciones ambientales y baños químicos para tu operación</span><a href="https://clientes.unisan.cl/">Acceso Clientes ↗</a></div></div>
     <header className="header"><nav className="container nav" aria-label="Navegación principal">
       <Logo/>
       <div className={`nav-links ${open ? "open" : ""}`}>
         <Link href="/soluciones" onClick={()=>setOpen(false)}>Soluciones</Link>
+        <Link href="/#lineas-de-negocio" onClick={()=>setOpen(false)}>Servicios</Link>
         <Link href="/nosotros" onClick={()=>setOpen(false)}>Nosotros</Link>
         <Link href="/contacto" onClick={()=>setOpen(false)}>Contacto</Link>
-        <Link className="mobile-client" href="https://clientes.unisan.cl/">Acceso Clientes ↗</Link>
+        <div className="mobile-nav-cta"><Link className="btn btn-primary" href="/solicitar-cotizacion" onClick={()=>setOpen(false)}>Solicitar cotización <span className="arrow">↗</span></Link></div>
       </div>
-      <Link className="btn btn-primary" href="/solicitar-cotizacion">Solicitar cotización <span className="arrow">↗</span></Link>
+      <Link className="btn btn-primary header-quote" href="/solicitar-cotizacion">Solicitar cotización <span className="arrow">↗</span></Link>
       <button className="menu-button" aria-expanded={open} aria-label="Abrir menú" onClick={()=>setOpen(!open)}>{open ? "×" : "☰"}</button>
     </nav></header>
   </>;
@@ -30,8 +31,8 @@ export function Header() {
 export function Footer() {
   return <footer className="footer"><div className="container">
     <div className="footer-grid">
-      <div><Logo inverse/><p>Gestión de residuos, economía circular y servicios sanitarios para empresas, faenas y proyectos.</p><p>Las Esteras Norte 2351, Quilicura<br/><a href="tel:+56225772400">+56 2 2577 2400</a><br/><a href="mailto:contacto@unisan.cl">contacto@unisan.cl</a></p></div>
-      <div><h3>Soluciones</h3><Link href="/soluciones/unidades-sanitarias">Unidades sanitarias</Link><Link href="/soluciones/trailer-lujo-eventos">Trailer de lujo / Eventos</Link><Link href="/soluciones/manejo-fosas-grasas">Fosas y grasas</Link><Link href="/soluciones/economia-circular">Economía circular</Link><Link href="/soluciones/residuos-industriales">Residuos industriales</Link><Link href="/soluciones/manejo-escombros">Escombros</Link><Link href="/soluciones/residuos-peligrosos">Residuos peligrosos</Link></div>
+      <div><Logo inverse/><p>Gestión de residuos, economía circular y baños químicos para empresas, faenas y proyectos.</p><p>Las Esteras Norte 2351, Quilicura<br/><a href="tel:+56225772400">+56 2 2577 2400</a><br/><a href="mailto:contacto@unisan.cl">contacto@unisan.cl</a></p></div>
+      <div><h3>Soluciones</h3><Link href="/soluciones/banos-quimicos">Baños químicos</Link><Link href="/soluciones/trailer-lujo-eventos">Trailer de lujo / Eventos</Link><Link href="/soluciones/manejo-fosas-grasas">Fosas y grasas</Link><Link href="/soluciones/economia-circular">Economía circular</Link><Link href="/soluciones/residuos-industriales">Residuos industriales</Link><Link href="/soluciones/manejo-escombros">Escombros</Link><Link href="/soluciones/residuos-peligrosos">Residuos peligrosos</Link></div>
       <div><h3>UNISAN</h3><Link href="/nosotros">Nosotros</Link><Link href="/contacto">Contacto</Link><Link href="/solicitar-cotizacion">Solicitar cotización</Link><a href="https://clientes.unisan.cl/">Acceso Clientes ↗</a></div>
       <div><h3>Más información</h3><a href="https://www.eticaunisan.cl/">Canal de Denuncias ↗</a><a href="https://www.instagram.com/unisan_uniboxs/">Instagram ↗</a><a href="https://www.linkedin.com/company/unisan-chile">LinkedIn ↗</a></div>
     </div>
