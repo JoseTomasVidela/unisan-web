@@ -48,3 +48,7 @@ next-env.d.ts
 *.zip
 
 /server-next-check/
+
+# Local UNISAN catalog recovery sources (not for the public repository)
+/docs/activos-unisan/
+/scripts/rescue-unisan-assets.mjs

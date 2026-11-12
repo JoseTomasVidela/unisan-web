@@ -1,0 +1,1614 @@
+{
+  "fuente": "https://unisan.cl",
+  "fecha_extraccion": "2026-11-12",
+  "criterio": "Entradas publicadas en las categorías originales de servicios/equipamiento de UNISAN; se excluyeron cotizaciones y contenido sin categoría de catálogo.",
+  "categorias_recuperadas": [
+    {
+      "id": 45,
+      "nombre": "Economia Circular /Reciclaje",
+      "slug": "economia-circular-reciclaje",
+      "cantidad_publicada": 10
+    },
+    {
+      "id": 44,
+      "nombre": "Manejo de Escombros",
+      "slug": "manejo-de-escombros",
+      "cantidad_publicada": 2
+    },
+    {
+      "id": 41,
+      "nombre": "Manejo de Fosas y Grasas",
+      "slug": "manejo-de-fosas-y-grasas",
+      "cantidad_publicada": 5
+    },
+    {
+      "id": 42,
+      "nombre": "Manejo de Residuos Industriales",
+      "slug": "manejo-de-residuos-industriales",
+      "cantidad_publicada": 8
+    },
+    {
+      "id": 43,
+      "nombre": "Manejo de Residuos Peligrosos",
+      "slug": "manejo-de-residuos-peligrosos",
+      "cantidad_publicada": 3
+    },
+    {
+      "id": 40,
+      "nombre": "Trailer de Lujo/Eventos",
+      "slug": "trailer-de-lujo-eventos",
+      "cantidad_publicada": 12
+    },
+    {
+      "id": 39,
+      "nombre": "Unidades Sanitarias",
+      "slug": "unidades-sanitarias",
+      "cantidad_publicada": 13
+    }
+  ],
+  "total_activos": 48,
+  "activos": [
+    {
+      "id": "alzacontenedores",
+      "wordpress_id": 2218,
+      "nombre": "Alzacontenedores",
+      "categoria_original": "Manejo de Residuos Industriales",
+      "categorias_originales": [
+        "Manejo de Residuos Industriales"
+      ],
+      "url_ficha_original": "https://unisan.cl/alzacontenedores/",
+      "fecha_publicacion_original": "2024-12-05T00:42:29",
+      "fecha_modificacion_original": "2025-01-14T13:32:30",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho de unidad\n2. Servicio de arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente",
+      "caracteristicas_originales": "Requiere conexión eléctrica",
+      "especificaciones_originales": "Alza contenedor hidráulico con capacidad de levantar contenedores plásticos de 240-360-770 y 1100 L.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Residuos Industriales > Alzacontenedores\n\n## Alzacontenedores\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho de unidad\n2. Servicio de arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente\n\n## CONDICIONES\n\nRequiere conexión eléctrica\n\n## ESPECIFICACIÓN\n\nAlza contenedor hidráulico con capacidad de levantar contenedores plásticos de 240-360-770 y 1100 L.",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/2018-06-07-12.48.03-scaled.jpg",
+          "local_path": "public/images/unisan/activos/alzacontenedores/alzacontenedores-01.jpg",
+          "bytes": 594260,
+          "sha256": "58a688cd1d4317ebffb4bf5790359b20ebeed216521472d8bd1cbdd9330894e0",
+          "width": 1920,
+          "height": 2560,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "arnes-alzador",
+      "wordpress_id": 2155,
+      "nombre": "Arnés Alzador",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/arnes-alzador/",
+      "fecha_publicacion_original": "2024-12-02T16:44:38",
+      "fecha_modificacion_original": "2025-01-13T18:31:19",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Arriendo mínimo 30 días\n2. Acceso fácil y despejado para el personal que hace la entrega.",
+      "especificaciones_originales": "Unidades fabricadas en acero para el izaje de 1 unidad sanitaria en su máximo peso con carga, todas cuentan con gancho para grúa.\nLas medidas son: 2,8 x 1,5 x 1,5 m\nPeso vacío: 90 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Arnés Alzador\n\n## Duchas Portátiles\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Arriendo mínimo 30 días\n2. Acceso fácil y despejado para el personal que hace la entrega.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en acero para el izaje de 1 unidad sanitaria en su máximo peso con carga, todas cuentan con gancho para grúa.\nLas medidas son: 2,8 x 1,5 x 1,5 m\nPeso vacío: 90 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/2018-06-07-12.48.03-scaled.jpg",
+          "local_path": "public/images/unisan/activos/alzacontenedores/alzacontenedores-01.jpg",
+          "bytes": 594260,
+          "sha256": "58a688cd1d4317ebffb4bf5790359b20ebeed216521472d8bd1cbdd9330894e0",
+          "width": 1920,
+          "height": 2560,
+          "duplicate_of": "public/images/unisan/activos/alzacontenedores/alzacontenedores-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "atril-con-sacas",
+      "wordpress_id": 2248,
+      "nombre": "Atril con Sacas",
+      "categoria_original": "Economia Circular /Reciclaje",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje"
+      ],
+      "url_ficha_original": "https://unisan.cl/atril-con-sacas/",
+      "fecha_publicacion_original": "2024-12-05T01:31:32",
+      "fecha_modificacion_original": "2025-01-14T13:12:28",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Economia Circular/Reciclaje > Atril con Sacas\n\n## Atril con Sacas\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2025/01/ATRILCONSACOS-2048x1536.jpeg",
+          "local_path": "public/images/unisan/activos/atril-con-sacas/atril-con-sacas-01.jpeg",
+          "bytes": 436473,
+          "sha256": "31ac24b25d71b2ccc4312ace87736a04892634fc47933f4f1857f8c9f03fcf24",
+          "width": 2048,
+          "height": 1536,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "autocompactadores-20m3",
+      "wordpress_id": 2216,
+      "nombre": "AutoCompactadores 20m3",
+      "categoria_original": "Manejo de Residuos Industriales",
+      "categorias_originales": [
+        "Manejo de Residuos Industriales"
+      ],
+      "url_ficha_original": "https://unisan.cl/autocompactadores-20m3/",
+      "fecha_publicacion_original": "2024-12-05T00:42:00",
+      "fecha_modificacion_original": "2025-01-14T13:30:19",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo para residuo compactables\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio 5. Requiere conexión a energía eléctrica.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, cuenta con equipo de compresión hidráulico de 10 Hp vía accionamiento manual, con una capacidad en volumen de 20 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado para carga y transporte de residuos sólidos compactables.\nMedidas: Alto 2,6 mts x Ancho 2,4 mts x Largo 6,2 mts",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Residuos Industriales > AutoCompactadores\n\n## AutoCompactadores\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo para residuo compactables\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio 5. Requiere conexión a energía eléctrica.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, cuenta con equipo de compresión hidráulico de 10 Hp vía accionamiento manual, con una capacidad en volumen de 20 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado para carga y transporte de residuos sólidos compactables.\nMedidas: Alto 2,6 mts x Ancho 2,4 mts x Largo 6,2 mts",
+      "fotografias": [],
+      "documentos_asociados": [],
+      "estado_recuperacion": "incompleta",
+      "verificacion_ficha_http": 200,
+      "observaciones": [
+        "La ficha original no publica una fotografía recuperable en su contenido; queda pendiente."
+      ]
+    },
+    {
+      "id": "autocompactadores",
+      "wordpress_id": 2244,
+      "nombre": "Autocompactadores",
+      "categoria_original": "Economia Circular /Reciclaje",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje"
+      ],
+      "url_ficha_original": "https://unisan.cl/autocompactadores/",
+      "fecha_publicacion_original": "2024-12-05T00:52:26",
+      "fecha_modificacion_original": "2025-01-14T13:21:42",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo para residuo compactables\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio 5. Requiere conexión a energía eléctrica.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, cuenta con equipo de compresión hidráulico de 10 Hp vía accionamiento manual, con una capacidad en volumen de 20 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado para carga y transporte de residuos sólidos compactables.\nMedidas: Alto 2,6 mts x Ancho 2,4 mts x Largo 6,2 mts",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Economia Circular /Reciclaje > Autocompactadores\n\n## Autocompactadores\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo para residuo compactables\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio 5. Requiere conexión a energía eléctrica.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, cuenta con equipo de compresión hidráulico de 10 Hp vía accionamiento manual, con una capacidad en volumen de 20 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado para carga y transporte de residuos sólidos compactables.\nMedidas: Alto 2,6 mts x Ancho 2,4 mts x Largo 6,2 mts",
+      "fotografias": [],
+      "documentos_asociados": [],
+      "estado_recuperacion": "incompleta",
+      "verificacion_ficha_http": 200,
+      "observaciones": [
+        "La ficha original no publica una fotografía recuperable en su contenido; queda pendiente."
+      ]
+    },
+    {
+      "id": "banos-minusvalidos",
+      "wordpress_id": 2159,
+      "nombre": "Baños Minusvalidos",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/banos-minusvalidos/",
+      "fecha_publicacion_original": "2024-12-02T16:45:45",
+      "fecha_modificacion_original": "2025-01-13T18:29:10",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Baños Capacidades Diferentes\n\n## Baños Capacidades Diferentes\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/BQM-10-2048x1365.jpg",
+          "local_path": "public/images/unisan/activos/banos-minusvalidos/banos-minusvalidos-01.jpg",
+          "bytes": 210363,
+          "sha256": "26ff1e31f541f038fe4bd9bc15768c520e4dcc67d3fe02466e32796202130a3b",
+          "width": 2048,
+          "height": 1365,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "banos-quimicos-con-lavamanos",
+      "wordpress_id": 2146,
+      "nombre": "Baños Químicos con lavamanos",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/banos-quimicos-con-lavamanos/",
+      "fecha_publicacion_original": "2024-12-02T16:42:00",
+      "fecha_modificacion_original": "2025-01-13T18:26:41",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con lavamanos, inodoro de loza y conexión directa a alcantarillado.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 110 Kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Baño Quimico con Lavamanos\n\n## Baño Quimico con Lavamanos\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con lavamanos, inodoro de loza y conexión directa a alcantarillado.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 110 Kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/C52-2-scaled.jpg",
+          "local_path": "public/images/unisan/activos/banos-quimicos-con-lavamanos/banos-quimicos-con-lavamanos-01.jpg",
+          "bytes": 361820,
+          "sha256": "a3a83239b0a56a982a64c984d1cf76d9ed4e9012408519e123671d0737f468d7",
+          "width": 1707,
+          "height": 2560,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "banos-quimicos-sin-lavamanos",
+      "wordpress_id": 2144,
+      "nombre": "Baños Químicos sin lavamanos",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/banos-quimicos-sin-lavamanos/",
+      "fecha_publicacion_original": "2024-12-02T16:41:36",
+      "fecha_modificacion_original": "2025-01-13T18:29:55",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual y Mantención semanal según la frecuencia determinada en el contrato, que considera la limpieza del baño y reposición de insumos respectivos\n3. Retiro de la unidad cuando sea requerido por el cliente.\n4. Reportes digitales de servicios realizados.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con ventanillas de ventilación, tubo extracción de olores y cierre con pestillos. Urinario, lavamanos y otros adicionales son acorde al requerimiento del cliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs\nCapacidad del estanque: 227 lts",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Baños Quimicos\n\n## Baños Quimicos\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual y Mantención semanal según la frecuencia determinada en el contrato, que considera la limpieza del baño y reposición de insumos respectivos\n3. Retiro de la unidad cuando sea requerido por el cliente.\n4. Reportes digitales de servicios realizados.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con ventanillas de ventilación, tubo extracción de olores y cierre con pestillos. Urinario, lavamanos y otros adicionales son acorde al requerimiento del cliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs\nCapacidad del estanque: 227 lts",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/BQ3-2048x1365.jpg",
+          "local_path": "public/images/unisan/activos/banos-quimicos-sin-lavamanos/banos-quimicos-sin-lavamanos-01.jpg",
+          "bytes": 336681,
+          "sha256": "12f7373f2536bd43289797cefb2f67ef9c5700ed49f3b9a41fcff6329465857f",
+          "width": 2048,
+          "height": 1365,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "banos-sobre-carro",
+      "wordpress_id": 2149,
+      "nombre": "Baños sobre Carro",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/banos-sobre-carro/",
+      "fecha_publicacion_original": "2024-12-02T16:42:45",
+      "fecha_modificacion_original": "2025-01-13T18:30:15",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho de la unidad\n2. Servicio de Arriendo mensual y Mantención semanal según la frecuencia determinada en el contrato, que considera la limpieza del baño y reposición de insumos respectivos\n3. Retiro de la unidad cuando sea requerido por el cliente.\n4. Reportes digitales de servicios realizados.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.",
+      "especificaciones_originales": "Unidades fabricadas en acero galvanizado, posee eje con suspensión que permite desplazamiento hasta de 90 km/Hora y soporta peso de 250 kg. Posee pata estabilizadora y rueda repuesto. Carro cuenta con escala para acceder al baño químico montado sobre él. Las características del baño pueden ser ajustadas a la necesidad del cliente.\nEl carro cuenta con luces reglamentarias y documentación que permiten el desplazamiento en ruta.\nLas medidas son: 2,2 x 1,55 x 1,55 m\nPeso vacío: 131 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Baño sobre Carro\n\n## Baño sobre Carro\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho de la unidad\n2. Servicio de Arriendo mensual y Mantención semanal según la frecuencia determinada en el contrato, que considera la limpieza del baño y reposición de insumos respectivos\n3. Retiro de la unidad cuando sea requerido por el cliente.\n4. Reportes digitales de servicios realizados.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en acero galvanizado, posee eje con suspensión que permite desplazamiento hasta de 90 km/Hora y soporta peso de 250 kg. Posee pata estabilizadora y rueda repuesto. Carro cuenta con escala para acceder al baño químico montado sobre él. Las características del baño pueden ser ajustadas a la necesidad del cliente.\nEl carro cuenta con luces reglamentarias y documentación que permiten el desplazamiento en ruta.\nLas medidas son: 2,2 x 1,55 x 1,55 m\nPeso vacío: 131 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/CABI-scaled.jpg",
+          "local_path": "public/images/unisan/activos/banos-sobre-carro/banos-sobre-carro-01.jpg",
+          "bytes": 430564,
+          "sha256": "6cfab3fb7f4176ebf05d115fc7f51d9169d9a7030015230babd7ee3399cc7a67",
+          "width": 1707,
+          "height": 2560,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "bodegas-de-respel",
+      "wordpress_id": 2224,
+      "nombre": "Bodegas de Respel",
+      "categoria_original": "Manejo de Residuos Peligrosos",
+      "categorias_originales": [
+        "Manejo de Residuos Peligrosos"
+      ],
+      "url_ficha_original": "https://unisan.cl/bodegas-de-respel/",
+      "fecha_publicacion_original": "2024-12-05T00:44:36",
+      "fecha_modificacion_original": "2025-01-14T13:40:33",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e instalación de la unidad\n2. Servicio de arriendo mensual\n3. Retiros de residuos peligrosos asociados a la bodega (se cobrarán aparte)\n4. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio de instalación.",
+      "especificaciones_originales": "Bodega Modular Móvil, de 2-4-8-10 pallet de capacidad de almacenamiento.\nCumple con todos los requisitos del DS148/03 para ser autorizada en las instalaciones del cliente.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Residuos Peligrosos > Bodegas de Respel\n\n## Bodegas de Respel\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e instalación de la unidad\n2. Servicio de arriendo mensual\n3. Retiros de residuos peligrosos asociados a la bodega (se cobrarán aparte)\n4. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio de instalación.\n\n## ESPECIFICACIÓN\n\nBodega Modular Móvil, de 2-4-8-10 pallet de capacidad de almacenamiento.\nCumple con todos los requisitos del DS148/03 para ser autorizada en las instalaciones del cliente.",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/Bodegas-Respel.jpg",
+          "local_path": "public/images/unisan/activos/bodegas-de-respel/bodegas-de-respel-01.jpg",
+          "bytes": 244243,
+          "sha256": "4e31e65ed3c91d2ae4dcf2a1308b526eb56971db11d198d5d3552ba5ea80570b",
+          "width": 998,
+          "height": 889,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "camion-rampla-10-a-22-pallets",
+      "wordpress_id": 2222,
+      "nombre": "Camión Rampla (10 a 22 pallet)",
+      "categoria_original": "Manejo de Residuos Peligrosos",
+      "categorias_originales": [
+        "Manejo de Residuos Peligrosos"
+      ],
+      "url_ficha_original": "https://unisan.cl/camion-rampla-10-a-22-pallets/",
+      "fecha_publicacion_original": "2024-12-05T00:44:03",
+      "fecha_modificacion_original": "2025-01-14T13:41:22",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Retiro de residuos peligrosos paletizados y envueltos en film (carga segura) u opción de personal para paletizar\n2. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales peligrosos\n3. Disposición final de los residuos en planta autorizada\n4. Reportabilidad y Certificado de disposición final.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos a granel\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo mientras se realiza la carga de pallet.",
+      "especificaciones_originales": "Camión Rampla Abierto con barandas abatibles con capacidad para 8 pallet estándar y con un capacidad máxima de carga de 10 toneladas para transporte en carretera.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Residuos Peligrosos > Camión Rampla\n\n## Camión Rampla\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Retiro de residuos peligrosos paletizados y envueltos en film (carga segura) u opción de personal para paletizar\n2. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales peligrosos\n3. Disposición final de los residuos en planta autorizada\n4. Reportabilidad y Certificado de disposición final.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos a granel\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo mientras se realiza la carga de pallet.\n\n## ESPECIFICACIÓN\n\nCamión Rampla Abierto con barandas abatibles con capacidad para 8 pallet estándar y con un capacidad máxima de carga de 10 toneladas para transporte en carretera.",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/Camion-de-Respel.jpg",
+          "local_path": "public/images/unisan/activos/camion-rampla-10-a-22-pallets/camion-rampla-10-a-22-pallets-01.jpg",
+          "bytes": 179457,
+          "sha256": "cf63bad9ea6d2015f6363fbdc6191c2747749015364d0d5ac3f70759b5d4850a",
+          "width": 1280,
+          "height": 960,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "cargas-tolvas-con-bobcat",
+      "wordpress_id": 2230,
+      "nombre": "Cargas a tolvas con Bobcat",
+      "categoria_original": "Manejo de Escombros",
+      "categorias_originales": [
+        "Manejo de Escombros"
+      ],
+      "url_ficha_original": "https://unisan.cl/cargas-tolvas-con-bobcat/",
+      "fecha_publicacion_original": "2024-12-05T00:48:30",
+      "fecha_modificacion_original": "2025-01-14T13:36:18",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos inertes de la construcción\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo disponer residuos inertes provenientes de construcción y demolición\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 5 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.\nMedidas: Alto 1,25 mts x Ancho 1,7 mts x Largo 3,25 mts",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Escombros > Cargas a tolvas con Bobcat\n\n## Cargas a tolvas con Bobcat\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos inertes de la construcción\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo disponer residuos inertes provenientes de construcción y demolición\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 5 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.\nMedidas: Alto 1,25 mts x Ancho 1,7 mts x Largo 3,25 mts",
+      "fotografias": [],
+      "documentos_asociados": [],
+      "estado_recuperacion": "incompleta",
+      "verificacion_ficha_http": 200,
+      "observaciones": [
+        "La ficha original no publica una fotografía recuperable en su contenido; queda pendiente."
+      ]
+    },
+    {
+      "id": "carro-urbano",
+      "wordpress_id": 2157,
+      "nombre": "Carro Urbano",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/carro-urbano/",
+      "fecha_publicacion_original": "2024-12-02T16:45:13",
+      "fecha_modificacion_original": "2025-01-13T18:31:51",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho de la unidad\n2. Servicio de Arriendo mensual y Mantención semanal según la frecuencia determinada en el contrato, que considera la limpieza del baño y reposición de insumos respectivos\n3. Retiro de la unidad cuando sea requerido por el cliente.\n4. Reportes digitales de servicios realizados.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.",
+      "especificaciones_originales": "Unidades fabricadas en acero galvanizado, posee eje con suspensión que permite desplazamiento hasta de 90 km/Hora y soporta peso de 250 kg. Posee pata estabilizadora y rueda repuesto. Carro cuenta con escala para acceder al baño químico montado sobre él. Las características del baño pueden ser ajustadas a la necesidad del cliente.\nEl carro cuenta con luces reglamentarias y documentación que permiten el desplazamiento en ruta.\nLas medidas son: 2,2 x 1,55 x 1,55 m\nPeso vacío: 131 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Carro Urbano\n\n## Carro Urbano\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho de la unidad\n2. Servicio de Arriendo mensual y Mantención semanal según la frecuencia determinada en el contrato, que considera la limpieza del baño y reposición de insumos respectivos\n3. Retiro de la unidad cuando sea requerido por el cliente.\n4. Reportes digitales de servicios realizados.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en acero galvanizado, posee eje con suspensión que permite desplazamiento hasta de 90 km/Hora y soporta peso de 250 kg. Posee pata estabilizadora y rueda repuesto. Carro cuenta con escala para acceder al baño químico montado sobre él. Las características del baño pueden ser ajustadas a la necesidad del cliente.\nEl carro cuenta con luces reglamentarias y documentación que permiten el desplazamiento en ruta.\nLas medidas son: 2,2 x 1,55 x 1,55 m\nPeso vacío: 131 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/CABI-scaled.jpg",
+          "local_path": "public/images/unisan/activos/banos-sobre-carro/banos-sobre-carro-01.jpg",
+          "bytes": 430564,
+          "sha256": "6cfab3fb7f4176ebf05d115fc7f51d9169d9a7030015230babd7ee3399cc7a67",
+          "width": 1707,
+          "height": 2560,
+          "duplicate_of": "public/images/unisan/activos/banos-sobre-carro/banos-sobre-carro-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "casetas-de-vigilancia",
+      "wordpress_id": 2153,
+      "nombre": "Casetas de Vigilancia",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/casetas-de-vigilancia/",
+      "fecha_publicacion_original": "2024-12-02T16:43:39",
+      "fecha_modificacion_original": "2025-01-13T18:30:36",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2.. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en fibra de vidrio, todas cuentan con luz y enchufes para conexión eléctrica.\nLas medidas son: 2,3 x 1,25 x 1,25 m\nPeso vacío: 90 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Caseta de Vigilancia\n\n## Caseta de Vigilancia\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2.. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en fibra de vidrio, todas cuentan con luz y enchufes para conexión eléctrica.\nLas medidas son: 2,3 x 1,25 x 1,25 m\nPeso vacío: 90 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/CASETA-VIG-2048x1536.jpg",
+          "local_path": "public/images/unisan/activos/casetas-de-vigilancia/casetas-de-vigilancia-01.jpg",
+          "bytes": 563175,
+          "sha256": "1e655b4f1411b6aa6eaec693d19a8ffaa10786c00afdbe904dcaba206d42ff6a",
+          "width": 2048,
+          "height": 1536,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "chipeadoras",
+      "wordpress_id": 2242,
+      "nombre": "Chipeadoras",
+      "categoria_original": "Economia Circular /Reciclaje",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje"
+      ],
+      "url_ficha_original": "https://unisan.cl/chipeadoras/",
+      "fecha_publicacion_original": "2024-12-05T00:51:59",
+      "fecha_modificacion_original": "2025-01-14T13:21:10",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Economia Circular /Reciclaje > Chipeadoras\n\n## Chipeadoras\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [],
+      "documentos_asociados": [],
+      "estado_recuperacion": "incompleta",
+      "verificacion_ficha_http": 200,
+      "observaciones": [
+        "La ficha original no publica una fotografía recuperable en su contenido; queda pendiente."
+      ]
+    },
+    {
+      "id": "contenedores-a-la-medida",
+      "wordpress_id": 2226,
+      "nombre": "Contenedores a la medida",
+      "categoria_original": "Economia Circular /Reciclaje / Manejo de Residuos Industriales",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje",
+        "Manejo de Residuos Industriales"
+      ],
+      "url_ficha_original": "https://unisan.cl/contenedores-a-la-medida/",
+      "fecha_publicacion_original": "2024-12-05T00:46:20",
+      "fecha_modificacion_original": "2025-01-14T00:27:09",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Residuos Industriales > Contenedores a la medida\n\n## Contenedores a la medida\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/20171106_095017-scaled.jpg",
+          "local_path": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "bytes": 273499,
+          "sha256": "c7a87bed6c2fbfdc2838f1bdbca3ff276ba285bb970f8e901f47a6c0845e1933",
+          "width": 1440,
+          "height": 2560,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "contenedores-basura-120lt-1-1100lt",
+      "wordpress_id": 2185,
+      "nombre": "Contenedores Basura 120lt a 1.1100lt",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/contenedores-basura-120lt-1-1100lt/",
+      "fecha_publicacion_original": "2024-12-02T16:53:45",
+      "fecha_modificacion_original": "2025-01-13T18:44:22",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Contenedores Basura\n\n## Contenedores Basura\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/CT-15.jpg",
+          "local_path": "public/images/unisan/activos/contenedores-basura-120lt-1-1100lt/contenedores-basura-120lt-1-1100lt-01.jpg",
+          "bytes": 65776,
+          "sha256": "b6a3fb80a44292d25d248f6c0e0f4934238f141e0a739e5362e5f3cd78a219e9",
+          "width": 455,
+          "height": 320,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "destruccion-de-inventarios",
+      "wordpress_id": 2220,
+      "nombre": "Destruccion de Inventarios",
+      "categoria_original": "Manejo de Residuos Industriales",
+      "categorias_originales": [
+        "Manejo de Residuos Industriales"
+      ],
+      "url_ficha_original": "https://unisan.cl/destruccion-de-inventarios/",
+      "fecha_publicacion_original": "2024-12-05T00:43:04",
+      "fecha_modificacion_original": "2025-01-14T13:33:22",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Retiro de mermas y recambio de unidad según ton establecidas en la OC\n3. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales\n4. Disposición final de los residuos en planta autorizada para su Destrucción\n5. Reportabilidad y Certificado de disposición final\n6. Certificado Notarial de la carga según inventario",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar el equipo\n5. Realizar la carga al contenedor.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 20 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Residuos Industriales > Destruccion de Inventarios\n\n## Destruccion de Inventarios\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Retiro de mermas y recambio de unidad según ton establecidas en la OC\n3. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales\n4. Disposición final de los residuos en planta autorizada para su Destrucción\n5. Reportabilidad y Certificado de disposición final\n6. Certificado Notarial de la carga según inventario\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar el equipo\n5. Realizar la carga al contenedor.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 20 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.",
+      "fotografias": [],
+      "documentos_asociados": [],
+      "estado_recuperacion": "incompleta",
+      "verificacion_ficha_http": 200,
+      "observaciones": [
+        "La ficha original no publica una fotografía recuperable en su contenido; queda pendiente."
+      ]
+    },
+    {
+      "id": "duchas-portatiles",
+      "wordpress_id": 1641,
+      "nombre": "Duchas Portátiles",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/duchas-portatiles/",
+      "fecha_publicacion_original": "2024-10-25T13:39:57",
+      "fecha_modificacion_original": "2024-12-31T16:23:30",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Duchas Portátiles\n\n## Duchas Portátiles\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/20171106_095017-scaled.jpg",
+          "local_path": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "bytes": 273499,
+          "sha256": "c7a87bed6c2fbfdc2838f1bdbca3ff276ba285bb970f8e901f47a6c0845e1933",
+          "width": 1440,
+          "height": 2560,
+          "duplicate_of": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "enfardadoras",
+      "wordpress_id": 2236,
+      "nombre": "Enfardadoras",
+      "categoria_original": "Economia Circular /Reciclaje",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje"
+      ],
+      "url_ficha_original": "https://unisan.cl/enfardadoras/",
+      "fecha_publicacion_original": "2024-12-05T00:50:28",
+      "fecha_modificacion_original": "2025-01-14T13:16:46",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de unidad\n2. Servicio de arriendo mensual\n3. Personal a cargo de su manipulación (opcional) según establecido en el contrato\n4. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "Necesita instalación eléctrica para su funcionamiento.",
+      "especificaciones_originales": "Prensa de gran potencia para tratamiento y compactación de grandes cantidades de material reciclable.\nReduce volumen transformando a fardos de menor tamaño y alta densidad.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Economia Circular /Reciclaje > Enfardadoras\n\n## Enfardadoras\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de unidad\n2. Servicio de arriendo mensual\n3. Personal a cargo de su manipulación (opcional) según establecido en el contrato\n4. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\nNecesita instalación eléctrica para su funcionamiento.\n\n## ESPECIFICACIÓN\n\nPrensa de gran potencia para tratamiento y compactación de grandes cantidades de material reciclable.\nReduce volumen transformando a fardos de menor tamaño y alta densidad.",
+      "fotografias": [],
+      "documentos_asociados": [],
+      "estado_recuperacion": "incompleta",
+      "verificacion_ficha_http": 200,
+      "observaciones": [
+        "La ficha original no publica una fotografía recuperable en su contenido; queda pendiente."
+      ]
+    },
+    {
+      "id": "jaula-segregacion",
+      "wordpress_id": 2232,
+      "nombre": "Jaula de Segregación (2 tipos)",
+      "categoria_original": "Economia Circular /Reciclaje",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje"
+      ],
+      "url_ficha_original": "https://unisan.cl/jaula-segregacion/",
+      "fecha_publicacion_original": "2024-12-05T00:49:34",
+      "fecha_modificacion_original": "2025-01-14T13:13:18",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de unidad\n2. Servicio de arriendo mensual\n3. Retiro de materiales valorizables y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a planta de valorización de materiales autorizada\n5. Valorización de materiales según cantidad\n6. Reportabilidad y Certificado de valorización.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo disponer residuos reciclables de un solo tipo\n3. No sobrepasar carga máxima",
+      "especificaciones_originales": "Jaula fabricada en acero con una capacidad en volumen de 5 m3 y con una capacidad máxima de carga de 1 tonelada. Diseñada solo para carga y transporte de residuos sólidos.\nConsulte por jaulas de distintos tamaños con su ejecutivo.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Economia Circular /Reciclaje > Jaula de Segregación\n\n## Jaula de Segregación\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de unidad\n2. Servicio de arriendo mensual\n3. Retiro de materiales valorizables y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a planta de valorización de materiales autorizada\n5. Valorización de materiales según cantidad\n6. Reportabilidad y Certificado de valorización.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo disponer residuos reciclables de un solo tipo\n3. No sobrepasar carga máxima\n\n## ESPECIFICACIÓN\n\nJaula fabricada en acero con una capacidad en volumen de 5 m3 y con una capacidad máxima de carga de 1 tonelada. Diseñada solo para carga y transporte de residuos sólidos.\nConsulte por jaulas de distintos tamaños con su ejecutivo.",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/jaula.jpg",
+          "local_path": "public/images/unisan/activos/jaula-segregacion/jaula-segregacion-01.jpg",
+          "bytes": 135549,
+          "sha256": "afcd18c4d02e1655008e03fdb1d7a14c747857e5978cd6f6b7640a5ec1540a67",
+          "width": 720,
+          "height": 1280,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "lavafondos",
+      "wordpress_id": 2173,
+      "nombre": "Lavafondos",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/lavafondos/",
+      "fecha_publicacion_original": "2024-12-02T16:49:30",
+      "fecha_modificacion_original": "2025-01-13T18:47:53",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Lavafondos\n\n## Lavafondos\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2025/01/LAVAFONDOS.jpeg",
+          "local_path": "public/images/unisan/activos/lavafondos/lavafondos-01.jpeg",
+          "bytes": 126506,
+          "sha256": "72a97baa2c54dd03679a365d452fa6fb6218f2c268b0843e7a52dfd4b2cc9848",
+          "width": 521,
+          "height": 980,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "lavamanos-portatiles",
+      "wordpress_id": 2161,
+      "nombre": "Lavamanos portatiles",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/lavamanos-portatiles/",
+      "fecha_publicacion_original": "2024-12-02T16:46:12",
+      "fecha_modificacion_original": "2025-01-13T18:50:43",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con lavamanos, inodoro de loza y conexión directa a alcantarillado.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 110 Kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Lavamanos Portátiles\n\n## Lavamanos Portátiles\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con lavamanos, inodoro de loza y conexión directa a alcantarillado.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 110 Kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2025/01/LAVAMANOS-PORTATIL.jpeg",
+          "local_path": "public/images/unisan/activos/lavamanos-portatiles/lavamanos-portatiles-01.jpeg",
+          "bytes": 201195,
+          "sha256": "ac7d3d67450b45a7a38e4b27191a1d86fcfb04e5542e38e4ec10832f72f8ba8a",
+          "width": 912,
+          "height": 1600,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "limpieza-de-foodtruck",
+      "wordpress_id": 2179,
+      "nombre": "Limpieza de Foodtruck",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/limpieza-de-foodtruck/",
+      "fecha_publicacion_original": "2024-12-02T16:51:29",
+      "fecha_modificacion_original": "2025-01-13T18:50:22",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Limpieza Foodtruck\n\n## Limpieza Foodtruck\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [],
+      "documentos_asociados": [],
+      "estado_recuperacion": "incompleta",
+      "verificacion_ficha_http": 200,
+      "observaciones": [
+        "La ficha original no publica una fotografía recuperable en su contenido; queda pendiente."
+      ]
+    },
+    {
+      "id": "limpieza-hydrojet",
+      "wordpress_id": 2195,
+      "nombre": "Limpieza Hydrojet (camaras y ductos)",
+      "categoria_original": "Manejo de Fosas y Grasas",
+      "categorias_originales": [
+        "Manejo de Fosas y Grasas"
+      ],
+      "url_ficha_original": "https://unisan.cl/limpieza-hydrojet/",
+      "fecha_publicacion_original": "2024-12-02T16:58:57",
+      "fecha_modificacion_original": "2025-01-14T00:03:41",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Limpieza Hydrojet\n\n## Limpieza Hydrojet\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/20171106_095017-scaled.jpg",
+          "local_path": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "bytes": 273499,
+          "sha256": "c7a87bed6c2fbfdc2838f1bdbca3ff276ba285bb970f8e901f47a6c0845e1933",
+          "width": 1440,
+          "height": 2560,
+          "duplicate_of": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "manejo-de-organicos",
+      "wordpress_id": 2208,
+      "nombre": "Manejo de organicos",
+      "categoria_original": "Manejo de Residuos Industriales",
+      "categorias_originales": [
+        "Manejo de Residuos Industriales"
+      ],
+      "url_ficha_original": "https://unisan.cl/manejo-de-organicos/",
+      "fecha_publicacion_original": "2024-12-05T00:37:44",
+      "fecha_modificacion_original": "2025-01-14T00:15:21",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Residuos Industriales > Manejo de organicos\n\n## Manejo de organicos\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/20171106_095017-scaled.jpg",
+          "local_path": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "bytes": 273499,
+          "sha256": "c7a87bed6c2fbfdc2838f1bdbca3ff276ba285bb970f8e901f47a6c0845e1933",
+          "width": 1440,
+          "height": 2560,
+          "duplicate_of": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "mudadores",
+      "wordpress_id": 2187,
+      "nombre": "Mudadores",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/mudadores/",
+      "fecha_publicacion_original": "2024-12-02T16:54:31",
+      "fecha_modificacion_original": "2025-01-13T18:39:23",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo diario\n3. Retiro de la unidad cuando sea requerido por el cliente",
+      "caracteristicas_originales": "1. Arriendo por día\n2. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con mudador plástico plegable para bebe.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Mudadores\n\n## Mudadores\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo diario\n3. Retiro de la unidad cuando sea requerido por el cliente\n\n## CONDICIONES\n\n1. Arriendo por día\n2. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con mudador plástico plegable para bebe.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/BQ3-2048x1365.jpg",
+          "local_path": "public/images/unisan/activos/banos-quimicos-sin-lavamanos/banos-quimicos-sin-lavamanos-01.jpg",
+          "bytes": 336681,
+          "sha256": "12f7373f2536bd43289797cefb2f67ef9c5700ed49f3b9a41fcff6329465857f",
+          "width": 2048,
+          "height": 1365,
+          "duplicate_of": "public/images/unisan/activos/banos-quimicos-sin-lavamanos/banos-quimicos-sin-lavamanos-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "personal-segregacion-en-origen",
+      "wordpress_id": 2246,
+      "nombre": "Personal Segregación en origen",
+      "categoria_original": "Economia Circular /Reciclaje",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje"
+      ],
+      "url_ficha_original": "https://unisan.cl/personal-segregacion-en-origen/",
+      "fecha_publicacion_original": "2024-12-05T00:53:00",
+      "fecha_modificacion_original": "2025-01-14T13:12:02",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de unidad\n2. Servicio de arriendo mensual\n3. Retiro de materiales valorizables y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a planta de valorización de materiales autorizada\n5. Valorización de materiales según cantidad\n6. Reportabilidad y Certificado de valorización.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo disponer residuos reciclables de un solo tipo\n3. No sobrepasar carga máxima",
+      "especificaciones_originales": "Jaula fabricada en acero con una capacidad en volumen de 5 m3 y con una capacidad máxima de carga de 1 tonelada. Diseñada solo para carga y transporte de residuos sólidos.\nConsulte por jaulas de distintos tamaños con su ejecutivo.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Economia Circular /Reciclaje > Personal Segregación en origen\n\n## Personal Segregación en origen\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de unidad\n2. Servicio de arriendo mensual\n3. Retiro de materiales valorizables y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a planta de valorización de materiales autorizada\n5. Valorización de materiales según cantidad\n6. Reportabilidad y Certificado de valorización.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo disponer residuos reciclables de un solo tipo\n3. No sobrepasar carga máxima\n\n## ESPECIFICACIÓN\n\nJaula fabricada en acero con una capacidad en volumen de 5 m3 y con una capacidad máxima de carga de 1 tonelada. Diseñada solo para carga y transporte de residuos sólidos.\nConsulte por jaulas de distintos tamaños con su ejecutivo.",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2025/01/PERSONALSEGREGACIONENORIGEN.jpeg",
+          "local_path": "public/images/unisan/activos/personal-segregacion-en-origen/personal-segregacion-en-origen-01.jpeg",
+          "bytes": 145345,
+          "sha256": "decbbd44d8facd8a9347876d6feaf43caf66dea0360a54337426e3ceec6d768b",
+          "width": 719,
+          "height": 1280,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "puntos-de-agua",
+      "wordpress_id": 2175,
+      "nombre": "Puntos de Agua",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/puntos-de-agua/",
+      "fecha_publicacion_original": "2024-12-02T16:49:57",
+      "fecha_modificacion_original": "2025-01-13T18:48:46",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Puntos de Agua\n\n## Puntos de Agua\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/Puntos-de-Agua-Potable.jpg",
+          "local_path": "public/images/unisan/activos/puntos-de-agua/puntos-de-agua-01.jpg",
+          "bytes": 231793,
+          "sha256": "c4965a50b3501d506efd1a88b75f70b70c082bd7599ce3d2b1d72f9947a9cc59",
+          "width": 961,
+          "height": 847,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "puntos-limpios-con-sin-monitores",
+      "wordpress_id": 2183,
+      "nombre": "Puntos Limpios con y sin monitores",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/puntos-limpios-con-sin-monitores/",
+      "fecha_publicacion_original": "2024-12-02T16:54:10",
+      "fecha_modificacion_original": "2025-01-13T18:51:34",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Puntos Limpios\n\n## Puntos Limpios\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/PTO-LIMPIO-2048x1365.jpg",
+          "local_path": "public/images/unisan/activos/puntos-limpios-con-sin-monitores/puntos-limpios-con-sin-monitores-01.jpg",
+          "bytes": 758124,
+          "sha256": "d653510f457a1ed2483aaf371b7e804fd4aaeabcf5c89371739e609602304f0c",
+          "width": 2048,
+          "height": 1365,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "puntos-limpios",
+      "wordpress_id": 2234,
+      "nombre": "Puntos Limpios",
+      "categoria_original": "Economia Circular /Reciclaje",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje"
+      ],
+      "url_ficha_original": "https://unisan.cl/puntos-limpios/",
+      "fecha_publicacion_original": "2024-12-05T00:50:05",
+      "fecha_modificacion_original": "2025-01-14T13:15:43",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de unidad\n2. Servicio de arriendo mensual o diaria según establecido en contrato\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Acceso a camión despejado para su instalación\n2. Disposición correcta de residuos en cada contenedor",
+      "especificaciones_originales": "Unidad compuesta por estructura metálica y 4 contenedores plásticos diferenciados para cada tipo de residuo reciclable.\nLas medidas y diseño puede ser ajustable a los requerimiento del cliente.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Economia Circular /Reciclaje > Puntos Limpios\n\n## Puntos Limpios\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de unidad\n2. Servicio de arriendo mensual o diaria según establecido en contrato\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Acceso a camión despejado para su instalación\n2. Disposición correcta de residuos en cada contenedor\n\n## ESPECIFICACIÓN\n\nUnidad compuesta por estructura metálica y 4 contenedores plásticos diferenciados para cada tipo de residuo reciclable.\nLas medidas y diseño puede ser ajustable a los requerimiento del cliente.",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/PTO-LIMPIO-2048x1365.jpg",
+          "local_path": "public/images/unisan/activos/puntos-limpios-con-sin-monitores/puntos-limpios-con-sin-monitores-01.jpg",
+          "bytes": 758124,
+          "sha256": "d653510f457a1ed2483aaf371b7e804fd4aaeabcf5c89371739e609602304f0c",
+          "width": 2048,
+          "height": 1365,
+          "duplicate_of": "public/images/unisan/activos/puntos-limpios-con-sin-monitores/puntos-limpios-con-sin-monitores-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "retiro-de-aguas-contaminadas",
+      "wordpress_id": 2197,
+      "nombre": "Retiro de Aguas Contaminadas",
+      "categoria_original": "Manejo de Fosas y Grasas / Manejo de Residuos Peligrosos",
+      "categorias_originales": [
+        "Manejo de Fosas y Grasas",
+        "Manejo de Residuos Peligrosos"
+      ],
+      "url_ficha_original": "https://unisan.cl/retiro-de-aguas-contaminadas/",
+      "fecha_publicacion_original": "2024-12-05T00:40:50",
+      "fecha_modificacion_original": "2025-01-14T13:42:42",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Personal para limpieza y succión de aguas servidas con camión y equipo especializado de vacío\n2. Transporte a disposición final en vehículo con resolución sanitaria para transporte de aguas servidas\n3. Disposición final de los residuos en planta autorizada para su tratamiento\n4. Certificado de disposición final.",
+      "caracteristicas_originales": "1. Tipo de residuo debe cumplir con lo establecido en el contrato/cotización\n2. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención\n3. Metros cúbicos adicionales a lo contratado serán cobrados\n4. Cliente debe declarar previo al servicio la naturaleza del residuo, debe ser catalogado como no peligroso.",
+      "especificaciones_originales": "Vehículos con equipo atmosférico que son capaces de levantar la presión requerida para succionar residuos líquidos/grasos, las capacidades de almacenamiento y traslado de líquidos van desde 1 m3 hasta 12 m3 según sea la necesidad. Resolución exenta del Seremi de Salud para traslado de residuos asociados.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Residuos Peligrosos > Retiro de Aguas Contaminadas\n\n## Retiro de Aguas Contaminadas\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Personal para limpieza y succión de aguas servidas con camión y equipo especializado de vacío\n2. Transporte a disposición final en vehículo con resolución sanitaria para transporte de aguas servidas\n3. Disposición final de los residuos en planta autorizada para su tratamiento\n4. Certificado de disposición final.\n\n## CONDICIONES\n\n1. Tipo de residuo debe cumplir con lo establecido en el contrato/cotización\n2. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención\n3. Metros cúbicos adicionales a lo contratado serán cobrados\n4. Cliente debe declarar previo al servicio la naturaleza del residuo, debe ser catalogado como no peligroso.\n\n## ESPECIFICACIÓN\n\nVehículos con equipo atmosférico que son capaces de levantar la presión requerida para succionar residuos líquidos/grasos, las capacidades de almacenamiento y traslado de líquidos van desde 1 m3 hasta 12 m3 según sea la necesidad. Resolución exenta del Seremi de Salud para traslado de residuos asociados.",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2025/01/RETIRO-Y-DISPOSICION-DE-RILES.jpeg",
+          "local_path": "public/images/unisan/activos/retiro-de-aguas-contaminadas/retiro-de-aguas-contaminadas-01.jpeg",
+          "bytes": 89869,
+          "sha256": "a9cc36c4f5aa7a09c640826cdd490841aff937748fe4306c5918cbb63e5b9b17",
+          "width": 720,
+          "height": 1280,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "retiro-disposicion-aguas-servidas",
+      "wordpress_id": 2193,
+      "nombre": "Retiro y disposición Aguas Servidas",
+      "categoria_original": "Manejo de Fosas y Grasas",
+      "categorias_originales": [
+        "Manejo de Fosas y Grasas"
+      ],
+      "url_ficha_original": "https://unisan.cl/retiro-disposicion-aguas-servidas/",
+      "fecha_publicacion_original": "2024-12-02T16:58:25",
+      "fecha_modificacion_original": "2025-01-14T00:06:49",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Retiro y disposición Aguas Servidas\n\n## Retiro y disposición Aguas Servidas\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/20171106_095017-scaled.jpg",
+          "local_path": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "bytes": 273499,
+          "sha256": "c7a87bed6c2fbfdc2838f1bdbca3ff276ba285bb970f8e901f47a6c0845e1933",
+          "width": 1440,
+          "height": 2560,
+          "duplicate_of": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "retiro-disposicion-de-riles",
+      "wordpress_id": 2189,
+      "nombre": "Retiro y disposición de Riles",
+      "categoria_original": "Manejo de Fosas y Grasas",
+      "categorias_originales": [
+        "Manejo de Fosas y Grasas"
+      ],
+      "url_ficha_original": "https://unisan.cl/retiro-disposicion-de-riles/",
+      "fecha_publicacion_original": "2024-12-02T16:55:24",
+      "fecha_modificacion_original": "2025-01-14T00:05:19",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Retiro y disposición de Riles\n\n## Retiro y disposición de Riles\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/20171106_095017-scaled.jpg",
+          "local_path": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "bytes": 273499,
+          "sha256": "c7a87bed6c2fbfdc2838f1bdbca3ff276ba285bb970f8e901f47a6c0845e1933",
+          "width": 1440,
+          "height": 2560,
+          "duplicate_of": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "retiro-disposicion-grasas-casino",
+      "wordpress_id": 2191,
+      "nombre": "Retiro y disposición Grasas Casino",
+      "categoria_original": "Manejo de Fosas y Grasas",
+      "categorias_originales": [
+        "Manejo de Fosas y Grasas"
+      ],
+      "url_ficha_original": "https://unisan.cl/retiro-disposicion-grasas-casino/",
+      "fecha_publicacion_original": "2024-12-02T16:57:46",
+      "fecha_modificacion_original": "2025-01-14T00:06:03",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Retiro y disposición Grasas Casino\n\n## Retiro y disposición Grasas Casino\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/20171106_095017-scaled.jpg",
+          "local_path": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "bytes": 273499,
+          "sha256": "c7a87bed6c2fbfdc2838f1bdbca3ff276ba285bb970f8e901f47a6c0845e1933",
+          "width": 1440,
+          "height": 2560,
+          "duplicate_of": "public/images/unisan/activos/contenedores-a-la-medida/contenedores-a-la-medida-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "suministro-agua-potable",
+      "wordpress_id": 2177,
+      "nombre": "Suministro Agua Potable",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/suministro-agua-potable/",
+      "fecha_publicacion_original": "2024-12-02T16:50:59",
+      "fecha_modificacion_original": "2025-01-13T18:49:34",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Suministro Agua Potable\n\n## Suministro Agua Potable\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/Agua-Potable.jpg",
+          "local_path": "public/images/unisan/activos/suministro-agua-potable/suministro-agua-potable-01.jpg",
+          "bytes": 76895,
+          "sha256": "4ab6984d07040b03b4a615bd6729e9af181bf7f96a4c03ba92a5c51581960783",
+          "width": 952,
+          "height": 407,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "tolvas-abiertas-5-a-12m3",
+      "wordpress_id": 2228,
+      "nombre": "Tolvas abiertas (5-9-12m3)",
+      "categoria_original": "Manejo de Escombros",
+      "categorias_originales": [
+        "Manejo de Escombros"
+      ],
+      "url_ficha_original": "https://unisan.cl/tolvas-abiertas-5-a-12m3/",
+      "fecha_publicacion_original": "2024-12-05T00:47:46",
+      "fecha_modificacion_original": "2025-01-14T13:34:54",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehiculo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. Solo para el transporte de residuos sólidos no peligrosos\n4. No sobrepasar carga máxima\n5. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 12 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.\nMedidas: Alto 1,2 mts x Ancho 2,5 mts x Largo 5 mts",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Escombros​ > Tolvas abiertas\n\n## Tolvas abiertas\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehiculo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. Solo para el transporte de residuos sólidos no peligrosos\n4. No sobrepasar carga máxima\n5. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 12 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.\nMedidas: Alto 1,2 mts x Ancho 2,5 mts x Largo 5 mts",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/Tolva-30m3.jpg",
+          "local_path": "public/images/unisan/activos/tolvas-abiertas-5-a-12m3/tolvas-abiertas-5-a-12m3-01.jpg",
+          "bytes": 121792,
+          "sha256": "df034dbe55c9b69d8b1d18416219bf2f20cb9bd7dccc380ceaa291ba12494242",
+          "width": 1280,
+          "height": 652,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "tolvas-abiertas-5-a-30-metros",
+      "wordpress_id": 2210,
+      "nombre": "Tolvas abiertas (5-9-12-20-30m3)",
+      "categoria_original": "Manejo de Residuos Industriales",
+      "categorias_originales": [
+        "Manejo de Residuos Industriales"
+      ],
+      "url_ficha_original": "https://unisan.cl/tolvas-abiertas-5-a-30-metros/",
+      "fecha_publicacion_original": "2024-12-05T00:38:40",
+      "fecha_modificacion_original": "2025-01-14T13:31:11",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. Solo para el transporte de residuos sólidos no peligrosos\n4. No sobrepasar carga máxima\n5. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 30 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Tolvas abiertas\n\n## Tolvas abiertas\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. Solo para el transporte de residuos sólidos no peligrosos\n4. No sobrepasar carga máxima\n5. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 30 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.",
+      "fotografias": [],
+      "documentos_asociados": [],
+      "estado_recuperacion": "incompleta",
+      "verificacion_ficha_http": 200,
+      "observaciones": [
+        "La ficha original no publica una fotografía recuperable en su contenido; queda pendiente."
+      ]
+    },
+    {
+      "id": "tolvas-abiertas",
+      "wordpress_id": 2238,
+      "nombre": "Tolvas abiertas",
+      "categoria_original": "Economia Circular /Reciclaje",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje"
+      ],
+      "url_ficha_original": "https://unisan.cl/tolvas-abiertas/",
+      "fecha_publicacion_original": "2024-12-05T00:51:08",
+      "fecha_modificacion_original": "2025-01-14T13:18:17",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos inertes de la construcción\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo disponer residuos inertes provenientes de construcción y demolición\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 12 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.\nMedidas: Alto 1,2 mts x Ancho 2,5 mts x Largo 5 mts",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Economia Circular /Reciclaje > Tolvas abiertas\n\n## Tolvas abiertas\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos inertes de la construcción\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo disponer residuos inertes provenientes de construcción y demolición\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, abierto en su cara superior, con una capacidad en volumen de 12 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.\nMedidas: Alto 1,2 mts x Ancho 2,5 mts x Largo 5 mts",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/OT12-1-2048x1365.jpg",
+          "local_path": "public/images/unisan/activos/tolvas-abiertas/tolvas-abiertas-01.jpg",
+          "bytes": 394967,
+          "sha256": "a2f7e8b8ee53eaa0d18b100461cff2f5f3a27ef13adad190779ae59269f01222",
+          "width": 2048,
+          "height": 1365,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "tolvas-cerradas-12-15",
+      "wordpress_id": 2212,
+      "nombre": "Tolvas cerradas (12-15m3)",
+      "categoria_original": "Manejo de Residuos Industriales",
+      "categorias_originales": [
+        "Manejo de Residuos Industriales"
+      ],
+      "url_ficha_original": "https://unisan.cl/tolvas-cerradas-12-15/",
+      "fecha_publicacion_original": "2024-12-05T00:39:59",
+      "fecha_modificacion_original": "2025-01-14T13:28:43",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, cerrado en todas sus caras con puertas corredizas para el proceso de carga, con una capacidad en volumen de 15 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Tolvas cerradas\n\n## Tolvas cerradas\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, cerrado en todas sus caras con puertas corredizas para el proceso de carga, con una capacidad en volumen de 15 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/Tolva-30m3.jpg",
+          "local_path": "public/images/unisan/activos/tolvas-abiertas-5-a-12m3/tolvas-abiertas-5-a-12m3-01.jpg",
+          "bytes": 121792,
+          "sha256": "df034dbe55c9b69d8b1d18416219bf2f20cb9bd7dccc380ceaa291ba12494242",
+          "width": 1280,
+          "height": 652,
+          "duplicate_of": "public/images/unisan/activos/tolvas-abiertas-5-a-12m3/tolvas-abiertas-5-a-12m3-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "tolvas-cerradas",
+      "wordpress_id": 2240,
+      "nombre": "Tolvas cerradas",
+      "categoria_original": "Economia Circular /Reciclaje",
+      "categorias_originales": [
+        "Economia Circular /Reciclaje"
+      ],
+      "url_ficha_original": "https://unisan.cl/tolvas-cerradas/",
+      "fecha_publicacion_original": "2024-12-05T00:51:40",
+      "fecha_modificacion_original": "2025-01-14T13:20:08",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, cerrado en todas sus caras con puertas corredizas para el proceso de carga, con una capacidad en volumen de 15 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Economia Circular /Reciclaje > Tolvas cerradas\n\n## Tolvas cerradas\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. No disponer residuos líquidos dentro del contenedor\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, cerrado en todas sus caras con puertas corredizas para el proceso de carga, con una capacidad en volumen de 15 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado solo para carga y transporte de residuos sólidos.",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/CT-15.jpg",
+          "local_path": "public/images/unisan/activos/contenedores-basura-120lt-1-1100lt/contenedores-basura-120lt-1-1100lt-01.jpg",
+          "bytes": 65776,
+          "sha256": "b6a3fb80a44292d25d248f6c0e0f4934238f141e0a739e5362e5f3cd78a219e9",
+          "width": 455,
+          "height": 320,
+          "duplicate_of": "public/images/unisan/activos/contenedores-basura-120lt-1-1100lt/contenedores-basura-120lt-1-1100lt-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "tolvas-estanco-para-lodo",
+      "wordpress_id": 2214,
+      "nombre": "Tolvas estanco para lodos",
+      "categoria_original": "Manejo de Residuos Industriales",
+      "categorias_originales": [
+        "Manejo de Residuos Industriales"
+      ],
+      "url_ficha_original": "https://unisan.cl/tolvas-estanco-para-lodo/",
+      "fecha_publicacion_original": "2024-12-05T00:41:22",
+      "fecha_modificacion_original": "2025-01-14T13:45:49",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.",
+      "caracteristicas_originales": "1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo para residuos tipo lodos\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.",
+      "especificaciones_originales": "Contenedores fabricados en acero ASTM A-36 certificado, cerrado en todas sus caras con puertas corredizas para el proceso de carga, con una capacidad en volumen de 15 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado para carga y transporte de lodos, con válvula de descarga tipo bola para lodos.\nMedidas: Alto 1,7 mts x Ancho 2,4 mts x Largo 5,8 mts",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Manejo de Residuos Industriales > Tolvas estanco para lodos\n\n## Tolvas estanco para lodos\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e Instalación de equipo\n2. Servicio de arriendo mensual\n3. Retiro de residuos y recambio de unidad según frecuencia establecida en el contrato o programación por llamado\n4. Transporte a disposición final en vehículo con resolución exenta para el transporte de residuos industriales no peligrosos\n5. Disposición final de los residuos en planta autorizada para su tratamiento\n6. Reportabilidad y Certificado de disposición final.\n\n## CONDICIONES\n\n1. Acceso fácil y despejado para el personal que presta el servicio\n2. Solo para residuos tipo lodos\n3. No sobrepasar carga máxima\n4. Contar con espacio suficiente para instalar un equipo y para hacer un recambio.\n\n## ESPECIFICACIÓN\n\nContenedores fabricados en acero ASTM A-36 certificado, cerrado en todas sus caras con puertas corredizas para el proceso de carga, con una capacidad en volumen de 15 m3 y con un capacidad máxima de carga de 12 toneladas para transporte en carretera. Diseñado para carga y transporte de lodos, con válvula de descarga tipo bola para lodos.\nMedidas: Alto 1,7 mts x Ancho 2,4 mts x Largo 5,8 mts",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2025/01/limpieza.jpg",
+          "local_path": "public/images/unisan/activos/tolvas-estanco-para-lodo/tolvas-estanco-para-lodo-01.jpg",
+          "bytes": 78675,
+          "sha256": "2d2b964c640badacf833814470aabb272ca64505120e1cd1ea43b358e6a29387",
+          "width": 570,
+          "height": 512,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "trailer-gold",
+      "wordpress_id": 2169,
+      "nombre": "Trailer Gold",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/trailer-gold/",
+      "fecha_publicacion_original": "2024-12-02T16:48:34",
+      "fecha_modificacion_original": "2025-01-13T18:46:19",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Trailer de Lujo/Eventos > Trailer Gold\n\n## Trailer Gold\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/TRAILER-SILVER-2.jpg",
+          "local_path": "public/images/unisan/activos/trailer-gold/trailer-gold-01.jpg",
+          "bytes": 96043,
+          "sha256": "cd1ccd8a2cc4ad1a8febab1b75bd14f11f557d00e3c2aaa72872ed097f955f55",
+          "width": 1040,
+          "height": 584,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "trailer-minusvalido",
+      "wordpress_id": 2167,
+      "nombre": "Trailer Minusvalido",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/trailer-minusvalido/",
+      "fecha_publicacion_original": "2024-12-02T16:47:53",
+      "fecha_modificacion_original": "2026-04-13T20:38:25",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Trailer Capacidades Diferentes\n\n## Trailer Capacidades Diferentes\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-13-a-las-2.35.17 p.m.png",
+          "local_path": "public/images/unisan/activos/trailer-minusvalido/trailer-minusvalido-01.png",
+          "bytes": 90702,
+          "sha256": "2b96055262c693ca316ef4c2f5315a6c12db6de36d82c454a6b08685e3f72c2b",
+          "width": 327,
+          "height": 239,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "trailer-presidencial",
+      "wordpress_id": 2165,
+      "nombre": "Trailer Presidencial",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/trailer-presidencial/",
+      "fecha_publicacion_original": "2024-12-02T16:47:24",
+      "fecha_modificacion_original": "2025-01-13T18:45:44",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e instalación de la unidad\n2. Habilitación de la unidad\n3. Personal técnico especializado\n4. Personal de aseo permanente (opcional) según lo determinado en el contrato\n5. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Arriendo por día\n2. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.",
+      "especificaciones_originales": "Unidades autónomas con paneles solares que alimentan el funcionamiento eléctrico total del equipo y que cuentan con su estanques propios de 600 litros para aguas grises y 100 litros para agua fresca. La unidad se divide en dos módulos de baños con prestaciones más lujosas, donde cada módulo cuenta con 1 WC, 1 lavamanos, 1 espejo y accesorios para insumos.\nLas medidas son: 3,0 x 3,25 x 1,9 m\nPeso vacío: 900 kgs\nCapacidad estimada: 120 personas / 900 descargas",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Trailer de Lujo/Eventos > Trailer Presidencial\n\n## Trailer Presidencial\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e instalación de la unidad\n2. Habilitación de la unidad\n3. Personal técnico especializado\n4. Personal de aseo permanente (opcional) según lo determinado en el contrato\n5. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Arriendo por día\n2. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.\n\n## ESPECIFICACIÓN\n\nUnidades autónomas con paneles solares que alimentan el funcionamiento eléctrico total del equipo y que cuentan con su estanques propios de 600 litros para aguas grises y 100 litros para agua fresca. La unidad se divide en dos módulos de baños con prestaciones más lujosas, donde cada módulo cuenta con 1 WC, 1 lavamanos, 1 espejo y accesorios para insumos.\nLas medidas son: 3,0 x 3,25 x 1,9 m\nPeso vacío: 900 kgs\nCapacidad estimada: 120 personas / 900 descargas",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/TRAILER-SILVER-2.jpg",
+          "local_path": "public/images/unisan/activos/trailer-gold/trailer-gold-01.jpg",
+          "bytes": 96043,
+          "sha256": "cd1ccd8a2cc4ad1a8febab1b75bd14f11f557d00e3c2aaa72872ed097f955f55",
+          "width": 1040,
+          "height": 584,
+          "duplicate_of": "public/images/unisan/activos/trailer-gold/trailer-gold-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "trailer-silver",
+      "wordpress_id": 2171,
+      "nombre": "Trailer Silver",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/trailer-silver/",
+      "fecha_publicacion_original": "2024-12-02T16:48:55",
+      "fecha_modificacion_original": "2025-01-13T18:46:53",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Trailer de Lujo/Eventos > Trailer Silver\n\n## Trailer Silver\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual\n3. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega e instalación.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan manillas, aspersor de agua y conexión a la red de agua para fría y caliente.\nLas medidas son: 2,3 x 1,1 x 1,2 m\nPeso vacío: 75 kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/TRAILER-SILVER-2-1.jpg",
+          "local_path": "public/images/unisan/activos/trailer-gold/trailer-gold-01.jpg",
+          "bytes": 96043,
+          "sha256": "cd1ccd8a2cc4ad1a8febab1b75bd14f11f557d00e3c2aaa72872ed097f955f55",
+          "width": 1040,
+          "height": 584,
+          "duplicate_of": "public/images/unisan/activos/trailer-gold/trailer-gold-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "trailer-vip",
+      "wordpress_id": 2163,
+      "nombre": "Trailer Vip",
+      "categoria_original": "Trailer de Lujo/Eventos",
+      "categorias_originales": [
+        "Trailer de Lujo/Eventos"
+      ],
+      "url_ficha_original": "https://unisan.cl/trailer-vip/",
+      "fecha_publicacion_original": "2024-12-02T16:46:59",
+      "fecha_modificacion_original": "2025-01-13T18:45:08",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Despacho e instalación de la unidad\n2. Habilitación de la unidad\n3. Personal técnico especializado\n4. Personal de aseo permanente (opcional) según lo determinado en el contrato\n5. Retiro de la unidad cuando sea requerido por el cliente.",
+      "caracteristicas_originales": "1. Arriendo por día\n2. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.",
+      "especificaciones_originales": "Unidades autónomas con paneles solares que alimentan el funcionamiento eléctrico total del equipo y que cuentan con su estanques propios de 600 litros para aguas grises y 100 litros para agua fresca. La unidad se divide en dos módulos de baños, donde cada módulo cuenta con 1 WC, 1 lavamanos, 1 espejo y accesorios para insumos.\nLas medidas son: 3,0 x 3,25 x 1,9 m\nPeso vacío: 900 kgs\nCapacidad estimada: 120 personas / 900 descargas",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Trailer de Lujo/Eventos > Trailer Vip\n\n## Trailer Vip\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Despacho e instalación de la unidad\n2. Habilitación de la unidad\n3. Personal técnico especializado\n4. Personal de aseo permanente (opcional) según lo determinado en el contrato\n5. Retiro de la unidad cuando sea requerido por el cliente.\n\n## CONDICIONES\n\n1. Arriendo por día\n2. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.\n\n## ESPECIFICACIÓN\n\nUnidades autónomas con paneles solares que alimentan el funcionamiento eléctrico total del equipo y que cuentan con su estanques propios de 600 litros para aguas grises y 100 litros para agua fresca. La unidad se divide en dos módulos de baños, donde cada módulo cuenta con 1 WC, 1 lavamanos, 1 espejo y accesorios para insumos.\nLas medidas son: 3,0 x 3,25 x 1,9 m\nPeso vacío: 900 kgs\nCapacidad estimada: 120 personas / 900 descargas",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/TRAILER-SILVER-2.jpg",
+          "local_path": "public/images/unisan/activos/trailer-gold/trailer-gold-01.jpg",
+          "bytes": 96043,
+          "sha256": "cd1ccd8a2cc4ad1a8febab1b75bd14f11f557d00e3c2aaa72872ed097f955f55",
+          "width": 1040,
+          "height": 584,
+          "duplicate_of": "public/images/unisan/activos/trailer-gold/trailer-gold-01.jpg",
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    },
+    {
+      "id": "urinarios-simple-pasillo",
+      "wordpress_id": 2151,
+      "nombre": "Urinarios (simple/pasillo)",
+      "categoria_original": "Unidades Sanitarias",
+      "categorias_originales": [
+        "Unidades Sanitarias"
+      ],
+      "url_ficha_original": "https://unisan.cl/urinarios-simple-pasillo/",
+      "fecha_publicacion_original": "2024-12-02T16:44:09",
+      "fecha_modificacion_original": "2025-01-13T18:31:04",
+      "fecha_extraccion": "2026-11-12",
+      "descripcion_original": "El servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual y Mantención semanal según la frecuencia determinada en el contrato, que considera la limpieza del estanque y reposición de insumos respectivos\n3. Retiro de la unidad cuando sea requerido por el cliente.\n4. Reportes digitales de servicios realizados.",
+      "caracteristicas_originales": "1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.",
+      "especificaciones_originales": "Unidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con dos estanques de urinarios y capacidad hasta 4 personas en simultáneo.\nLas medidas son: 2,2 x 1,55 x 1,55 m\nPeso vacío: 131 Kgs",
+      "aplicaciones_y_usos_originales": "",
+      "contenido_recuperado_markdown": "## Unidades Sanitarias > Urinario Simple\n\n## Urinario Simple\n\n## DESCRIPCION\n\nEl servicio considera:\n1. Instalación y habilitación de la unidad\n2. Servicio de Arriendo mensual y Mantención semanal según la frecuencia determinada en el contrato, que considera la limpieza del estanque y reposición de insumos respectivos\n3. Retiro de la unidad cuando sea requerido por el cliente.\n4. Reportes digitales de servicios realizados.\n\n## CONDICIONES\n\n1. Cheque en garantía\n2. Arriendo mínimo 30 días\n3. Acceso fácil y despejado para el personal que hace la entrega y realiza la mantención.\n\n## ESPECIFICACIÓN\n\nUnidades fabricadas en EEUU con polietileno de alta densidad y protección UV, todas cuentan con dos estanques de urinarios y capacidad hasta 4 personas en simultáneo.\nLas medidas son: 2,2 x 1,55 x 1,55 m\nPeso vacío: 131 Kgs",
+      "fotografias": [
+        {
+          "source_url": "https://unisan.cl/wp-content/uploads/2024/11/20171004_154828-scaled.jpg",
+          "local_path": "public/images/unisan/activos/urinarios-simple-pasillo/urinarios-simple-pasillo-01.jpg",
+          "bytes": 348004,
+          "sha256": "4968a3c3e282868c485b01c139f7450dfd0295078a28f05db082035e736260b5",
+          "width": 1440,
+          "height": 2560,
+          "duplicate_of": null,
+          "verification": "archivo_descargado"
+        }
+      ],
+      "documentos_asociados": [],
+      "estado_recuperacion": "completa",
+      "verificacion_ficha_http": 200,
+      "observaciones": []
+    }
+  ]
+}

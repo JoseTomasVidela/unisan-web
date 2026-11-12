@@ -15,7 +15,8 @@ export function Header() {
     <header className="header"><nav className="container nav" aria-label="Navegación principal">
       <Logo/>
       <div className={`nav-links ${open ? "open" : ""}`}>
-        <Link href="/soluciones">Soluciones</Link>
+        <Link href="/soluciones">Líneas de negocio</Link>
+        <Link href="/activos">Activos</Link>
         <Link href="/nosotros">Nosotros</Link>
         <Link href="/contacto">Contacto</Link>
         <div className="mobile-nav-cta"><Link className="btn btn-primary" href="/solicitar-cotizacion">Solicitar cotización <span className="arrow">↗</span></Link></div>
